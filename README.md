@@ -1,43 +1,58 @@
-Here is an improved README for your RTOS assignment repository:
+# Operating System (RTOS) Project 
 
-# RTOS Assignment 1: System Calls and libc
+Welcome to my  Operating System  project repository! This repository showcases my implementation of system calls and libc functions tailored for a real-world application in an educational setting. Designed to deepen students' understanding of operating systems, this project encompasses essential components developed from scratch within the context of the egos-2000 teaching operating system.
 
-This repository contains my implementation of system calls and libc functions for an RTOS assignment. The goal is to help students understand key concepts in operating systems by implementing essential components from scratch.
+## Project Highlights
 
-## Overview
+- **Innovative System Calls**: Implemented a new `setprio` system call to manage process priorities effectively, enriching the system's functionality.
+  
+- **Process Management**: Developed process control blocks to meticulously track crucial process attributes such as priority, creation time, and context switches.
+  
+- **Enhanced Process Control**: Introduced a `kill` system call and corresponding application to facilitate graceful process termination by PID, enhancing system stability and management.
+  
+- **Improved Monitoring**: Enhanced the `ps` command to provide comprehensive insights into process details, aiding in system monitoring and analysis.
 
-This assignment involves making modifications to the egos-2000 teaching operating system. I have implemented:
+## Documentation and Resources
 
-- A new `setprio` system call to set process priority
-- Process control blocks to track priority, creation time, and context switches  
-- A `kill` system call and application to terminate processes by PID
-- Enhanced `ps` command to display process details
+To delve deeper into this project, explore the following resources:
 
-## Documentation
-
-The `README.md` provides an overview of the project. More detailed documentation can be found here:
-
-- [Assignment requirements](ASSIGNMENT.md)
-- [Development journal](JOURNAL.md) - describes approach and challenges
-- [Code documentation](docs/README.md) - documents key functions and data structures
+- **Assignment Requirements**: Detailed instructions and specifications are available in the [ASSIGNMENT.md](ASSIGNMENT.md) file.
+  
+- **Development Journal**: Gain insights into my development process, strategies, and challenges by referring to the [JOURNAL.md](JOURNAL.md) file.
+  
+- **Code Documentation**: Dive into the intricacies of key functions and data structures through the comprehensive documentation available in the [docs/README.md](docs/README.md) file.
 
 ## Getting Started
 
-The code can be built and run using:
+You can quickly build and run the project using the provided commands:
 
 ```bash
 make
 make qemu
 ```
 
-Output will be visible in the QEMU window.
+Watch the system in action within the QEMU window.
 
-## Contributions
+## Contributions and Feedback
 
-This was developed by [John Doe](https://github.com/john_doe) as part of a systems class. Feel free to submit issues and pull requests!
+This project was spearheaded by [John Doe](https://github.com/john_doe) as part of a systems class. I welcome contributions, feedback, and suggestions for further enhancements. Feel free to submit issues or pull requests to enrich this repository further!
+
+## Vision and Impact
+
+This project aspires to democratize access to operating system knowledge, making it accessible and comprehensible to every college student. With the lightweight and educational egos-2000 operating system, students can explore the intricacies of OS design and implementation firsthand. By fostering a deeper understanding of OS principles, this project aims to empower future generations of developers and engineers.
+
+## Acknowledgments
+
+I extend my gratitude to esteemed educators and mentors, including [Robbert van Renesse](https://www.cs.cornell.edu/home/rvr/), [Lorenzo Alvisi](https://www.cs.cornell.edu/lorenzo/), [Shan Lu](https://people.cs.uchicago.edu/~shanlu/), and [Hakim Weatherspoon](https://www.cs.cornell.edu/~hweather/), for their invaluable support and guidance throughout this endeavor. Special thanks to Meta for their support through the [Meta Fellowship](https://research.facebook.com/fellows/zhang-yunhao/). I also express my appreciation to all the students who have contributed to and improved this project over the years.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. For more details, refer to the [LICENSE](LICENSE) file.
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/evk3vUM4)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=12053353)
+
+![Screenshot of egos-2000](references/screenshots/egos-2000.jpg)
+
 
 
