@@ -1,4 +1,4 @@
-# Operating System (RTOS) Project 
+# Files Systems Calls (OS) Project
 
 Welcome to my  Operating System  project repository! This repository showcases my implementation of system calls and libc functions tailored for a real-world application in an educational setting. Designed to deepen students' understanding of operating systems, this project encompasses essential components developed from scratch within the context of the egos-2000 teaching operating system.
 ![Screenshot of egos-2000](references/screenshots/egos-2000.jpg)
@@ -33,14 +33,10 @@ Welcome to my  Operating System  project repository! This repository showcases m
 - [References](references/): Folder containing additional references and documentation.
 - [Apps](apps/), [Earth](earth/), [Grass](grass/), [Library](library/): Directories containing project components.
 
-## Contributions
-- [Contribution Guidelines](CONTRIBUTING.md): Guidelines for contributing to the project.
 
 ## Acknowledgments
 - [Acknowledgments](ACKNOWLEDGMENTS.md): Acknowledgments to individuals and organizations involved in the project.
 
-## Vision
-- [Vision Statement](VISION.md): Vision statement outlining the project's goals and aspirations.
 
 ## Getting Started
 
@@ -53,9 +49,6 @@ make qemu
 
 Watch the system in action within the QEMU window.
 
-## Contributions and Feedback
-
-This project was spearheaded by [John Doe](https://github.com/john_doe) as part of a systems class. I welcome contributions, feedback, and suggestions for further enhancements. Feel free to submit issues or pull requests to enrich this repository further!
 
 ## Vision and Impact
 
