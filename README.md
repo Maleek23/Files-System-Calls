@@ -13,15 +13,34 @@ Welcome to my  Operating System  project repository! This repository showcases m
   
 - **Improved Monitoring**: Enhanced the `ps` command to provide comprehensive insights into process details, aiding in system monitoring and analysis.
 
-## Documentation and Resources
+# Documentation and Resources
 
-To delve deeper into this project, explore the following resources:
+## Assignment Requirements
+- [Assignment 1 Requirements](ASSIGNMENT1.md): Detailed specifications and instructions for Assignment 1.
 
-- **Assignment Requirements**: Detailed instructions and specifications are available in the [ASSIGNMENT.md](ASSIGNMENT.md) file.
-  
-- **Development Journal**: Gain insights into my development process, strategies, and challenges by referring to the [JOURNAL.md](JOURNAL.md) file.
-  
-- **Code Documentation**: Dive into the intricacies of key functions and data structures through the comprehensive documentation available in the [docs/README.md](docs/README.md) file.
+## Development Guides
+- [Compiling Guide](COMPILING.md): Instructions for compiling and running the project.
+- [Running Guide](RUNNING.md): Guide on how to execute the project and observe its behavior.
+
+## Codebase
+- [Source Code](source_me.sh): Bash script to access the project's source code.
+
+## License
+- [License](LICENSE): License information for the project.
+
+## Additional Materials
+- [Makefile](Makefile): File containing build instructions and targets.
+- [References](references/): Folder containing additional references and documentation.
+- [Apps](apps/), [Earth](earth/), [Grass](grass/), [Library](library/): Directories containing project components.
+
+## Contributions
+- [Contribution Guidelines](CONTRIBUTING.md): Guidelines for contributing to the project.
+
+## Acknowledgments
+- [Acknowledgments](ACKNOWLEDGMENTS.md): Acknowledgments to individuals and organizations involved in the project.
+
+## Vision
+- [Vision Statement](VISION.md): Vision statement outlining the project's goals and aspirations.
 
 ## Getting Started
 
