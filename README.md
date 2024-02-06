@@ -1,6 +1,7 @@
 # Operating System (RTOS) Project 
 
 Welcome to my  Operating System  project repository! This repository showcases my implementation of system calls and libc functions tailored for a real-world application in an educational setting. Designed to deepen students' understanding of operating systems, this project encompasses essential components developed from scratch within the context of the egos-2000 teaching operating system.
+![Screenshot of egos-2000](references/screenshots/egos-2000.jpg)
 
 ## Project Highlights
 
@@ -49,10 +50,6 @@ I extend my gratitude to esteemed educators and mentors, including [Robbert van 
 
 This project is licensed under the MIT License. For more details, refer to the [LICENSE](LICENSE) file.
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/evk3vUM4)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=12053353)
-
-![Screenshot of egos-2000](references/screenshots/egos-2000.jpg)
 
 
 
